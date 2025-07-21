@@ -1,0 +1,621 @@
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01549nam a2200361 a 4500
+001 28511
+003 NIH
+005 20250521174159.0
+008 250520b        |||||||| |||| 00| 0 eng d
+020   $a978-967-18696-0-4
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/AMA/14.24(GU) - e
+090   $aW 215 L549 2015
+110   $aMalaysia. Kementerian Kesihatan Malaysia$bLembaga Pembantu Perubatan, Bahagian Amalan Perubatan,
+245   $aPOLISI OPERASI UNIT PENYELIAAN PENOLONG PEGAWAI PERUBATAN (HOSPITAL)$cKementerian Kesihatan Malaysia
+246   $aLembaga Pembantu Perubatan Kementerian Kesihatan Malaysia
+250   $aEdisi pertama Mac 2015
+264  1$aPutrajaya$bLembaga Pembantu Perubatan, Bahagian Amalan Perubatan, Kementerian Kesihatan Malaysia,$c2015
+300   $a 1 online resource (46 pages)$bcharts
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aIncludes appendices
+610   $aKementerian Kesihatan Malaysia$bUnit Penyeliaan Penolong Pegawai Perubatan (Hospital)
+650   $aPhysician Assistants  $vHandbooks, manuals, etc.$zMalaysia
+650   $aDoctor's Assistant  $vHandbooks, manuals, etc.$zMalaysia
+650   $aMedical personnel$xGovernment policy $z Malaysia
+650   $aGovernment publications $zMalaysia
+710   $aMalaysia. Kementerian Kesihatan $bLembaga Pembantu Perubatan
+856   $3https://moh-idepository.nih.gov.my/uploadbahan/Polisi_Operasi.pdf
+942   $2NLM$n0$cREF
+999   $c28511$d28511
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01396nam a2200349 a 4500
+001 28510
+003 NIH
+005 20250521164317.0
+008 250520b        |||||||| |||| 00| 0 eng d
+020   $a978-967-18696-0-4
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/AMA/14.24(GU) - e
+090   $aWJ 39 H134 2020
+110   $aMalaysia. Ministry of Health$bMedical Assistants Board
+245   $aStandard Operating Procedures For Assistant Medical Officers in Haemodialysis$cMinistry of Health Malaysia
+246   $aHaemodialysis
+250   $aSecond edition
+264  1$aPutrajaya$bMedical Assistants Board, Ministry of Health Malaysia, Federal Government Administrtive Centre$c2020
+300   $a 1 online resource (94 pages)$bcolor illustrations, charts
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aIncludes appendices
+610   $aMinistry of Health Malaysia$bMedical Assistants Board
+650   $aHemodialysis Units, Hospital $vHandbooks, manuals, etc.$zMalaysia
+650   $aRenal Dialysis$vHandbooks, manuals, etc.
+650   $aGovernment publications $zMalaysia
+710   $aMalaysia. Ministry Of Health$bMedical Assistants Board
+856   $3https://moh-idepository.nih.gov.my/uploadbahan/Hemodialysis_2nd_final_171120_01.pdf
+942   $2NLM$n0$cREF
+999   $c28510$d28510
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01228nam a2200313 a 4500
+001 28509
+003 NIH
+005 20250521162759.0
+008 250520b        |||||||| |||| 00| 0 eng d
+020   $a978-967-18696-0-4
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/AMA/14.24(GU) - e
+090   $a 2020
+110   $aMalaysia. Ministry of Health$bAssistant Medical Officers Services Section
+245   $aSTANDARD OPERATING PROCEDURE FOR MEDICAL ASSISTANT IN EMERGENCY DEPARTMENT$cMinistry of Health Malaysia
+264  1$aPutrajaya$bMedical Assistants Board, Ministry of Health Malaysia, Federal Government Administrtive Centre$c2023
+300   $a 1 online resource (94 pages)$bcolor illustrations, charts
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aIncludes appendices
+610   $aMinistry of Health Malaysia$bMedical Assistants Board
+650   $aHemodialysis$vHandbooks, manuals, etc.$zMalaysia
+650   $aMedical protocols $vHandbooks, manuals, etc.
+650   $aGovernment publications $zMalaysia
+710   $aMalaysia. Ministry Of Health$bMedical Assistants Board
+942   $2NLM$n0$cREF
+999   $c28509$d28509
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01688nam a2200361 a 4500
+001 28508
+003 NIH
+005 20250521154659.0
+008 250520b        |||||||| |||| 00| 0 eng d
+020   $ae ISBN 978-967-18696-4-2
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/AMA/14.24(GU) - e
+090   $a 2024
+110   $aMalaysia. Ministry of Health$bAssistant Medical Officers Services Section
+245   $aStandard Practice Guidelines for Assistant Medical Officer in Emergency Medicine and Trauma Services$cEmergency Medicine and Trauma Services, Ministry of Health Malaysia
+246   $aStandard Practice Guidelines For AMO in EMTS MOH
+264  1$aPutrajaya$bAssistant Medical Officers Services Section, Medical Practice Division, Ministry of Health Malaysia$c2023
+300   $a 1 online resource (xix 127 pages)$bcolor illustrations, tables, charts
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aIncludes appendices
+610   $aMinistry of Health Malaysia$bAssistant Medical Officers Services in Emergency Medicine and Trauma Services
+650   $aEmergency medicine$vHandbooks, manuals, etc.
+650   $aEmergency medical services$vHandbooks, manuals, etc.$zMalaysia
+650   $aMedical protocols $vHandbooks, manuals, etc.
+650   $aTraumatology$vHandbooks, manuals, etc.
+650   $aGovernment publications $zMalaysia
+710   $aMalaysia. Ministry Of Health$bAssistant Medical Officers Services Section
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/EmergencyMedicineandTraumaServices.pdf
+942   $2NLM$n0$cREF
+999   $c28508$d28508
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01899nam a2200385 a 4500
+001 28507
+003 NIH
+005 20250521151655.0
+008 250520b        |||||||| |||| 00| 0 eng d
+020   $ae ISBN 978-967-18696-4-2
+022   $2WW 21 OP61 2024
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/AMA/14.24(GU) - e
+090   $aWO 231 AN532 2024
+110   $aMalaysia. Ministry of Health$bAssistant Medical Officers Services Section
+245   $aSTANDARD PRACTICE GUIDELINES ASSISTANT MEDICAL OFFICERS IN ANAESTHESIA & INTENSIVE CARE SERVICES$cCAWANGAN PERKHIDMATAN PENOLONG PEGAWAI PERUBATAN$pANAESTHETIC ASSISTANT & TECHNOLOGISTS (AAT)$p INTENSIVE CARE TECHNOLOGISTS (ICT)
+246   $aOPHTHALMOLOGY 
+264  1$aPutrajaya$bAssistant Medical Officers Services Section, Medical Practice Division, Federal Government Administrative Centre$c2022
+300   $a 1 online resource (xiii, 295 pages)$bcharts
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aIncludes references
+610   $aMinistry of Health Malaysia$bAssistant Medical Officers Services in Anesthesia & Intensive Care Services
+611   $aMinistry of Health Malaysia$tAnaesthetic Assistant & Technologists (AAT)
+611   $aMinistry of Health Malaysia$tIntensive Care Technologists (ICT)
+650   $aAnesthesia  $vHandbooks, manuals, etc.
+650   $aAnesthesiology$vHandbooks, manuals, etc.$zMalaysia
+650   $aMedical protocols $vHandbooks, manuals, etc.
+650   $aGovernment publications $zMalaysia
+710   $aMalaysia. Ministry Of Health$bAssistant Medical Officers Services Section
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/Standard_Practice_Guidelines_Assistant_medical_Officer_In_Anaessthesia_&_Intensive_Care_Services.pdf
+942   $2NLM$n0$cREF
+999   $c28507$d28507
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01503nam a2200349 a 4500
+001 28506
+003 NIH
+005 20250521150330.0
+008 250520b        |||||||| |||| 00| 0 eng d
+020   $ae ISBN 978-967-18696-4-2
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/AMA/14.24(GU) - e
+090   $aWW 21 OP61 2024
+110   $aMalaysia. Ministry of Health$bAssistant Medical Officers Services Section, Medical Practice Division
+245   $aSTANDARD PRACTICE GUIDELINES FOR ASSISTANT MEDICAL OFFICERS IN OPHTHALMOLOGY$cCAWANGAN PERKHIDMATAN PENOLONG PEGAWAI PERUBATAN
+246   $aOPHTHALMOLOGY 
+264  1$aPutrajaya$bAssistant Medical Officers Services Section, Medical Practice Division, Federal Government Administrative Centre$c2024
+300   $a 1 online resource (xiii, 295 pages)$bcharts
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aIncludes references
+610   $aMinistry of Health Malaysia$bAssistant Medical Officers Services
+650   $aOphthalmology $vHandbooks, manuals, etc.$zMalaysia
+650   $aOptometry$vHandbooks, manuals, etc.
+650   $aMedical protocols $vHandbooks, manuals, etc.
+650   $aGovernment publications $zMalaysia
+710   $aMalaysia. Ministry Of Health$bAssistant Medical Officers Services Section
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/Buku_Ophtalmology_(2).pdf
+942   $2NLM$n0$cREF
+999   $c28506$d28506
+999   $aKB
+
+Error list:
+[{"tag":"100$e","description":"Missing sub field 100$e - Relator term"}]
+LEADER 01297nam a2200337 a 4500
+001 28505
+003 NIH
+005 20250619124025.0
+008 250520b        |||||||| |||| 00| 0 eng d
+040   $aNIH$beng$erda
+084   $aMOH/S/IKU/235.24(PT)
+090   $aWU 113 N974 2024
+100   $aNur Elina Abdul Mutalib
+245   $aRESEARCH HIGHLIGHT$bCare or Care Less? Oral Healthcare Utilisation among Adults$cMinistry of Health Malaysia Institute for Public Health
+246   $aThis research highlight is based on$bNHMS 2015, 2019 & 2023 — Non Communicable Diseases and Healthcare Demand
+264  1$aSetia Alam, Shah Alam, Selangor$bInstitute for Public Health (IKU)$c2024
+300   $a1 online resource (2pages)$bcolor illustrations
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aBibliography: page 2
+650   $aOral Health$xResearch$vPeriodicals
+650   $aMedical care$zMalaysia$vPeriodicals
+650   $aGovernment publications$zMalaysia$vPeriodicals
+700   $aKalvina Chelladorai
+700   $aNur Azmiah Zainuddin
+700   $aNurulasmak Mohamed
+856   $uhttps://libadmin.nih.gov.my/cgi-bin/koha/cataloguing/addbiblio.pl
+942   $2NLM$n0$cREF
+999   $c28505$d28505
+999   $aKB
+
+Error list:
+[{"tag":"100$e","description":"Missing sub field 100$e - Relator term"}]
+LEADER 01328nam a2200349 a 4500
+001 28504
+003 NIH
+005 20250619121213.0
+008 250520b        |||||||| |||| 00| 0 eng d
+040   $aNIH$beng$erda
+084   $aMOH/S/IKU/236.24(PT)
+090   $aQZ 185 K61 2024
+100   $aKishwen Kanna Yoga Ratnam
+245   $aRESEARCH HIGHLIGHT $bThe NCD Epidemic Young and Undiagnosed$cMinistry of Health Malaysia Institute for Public Health
+246   $aThis summary is based on:$bNHMS 2023: Non-Communicable Diseases and Healthcare Demand
+264  1$aSetia Alam, Shah Alam, Selangor$bInstitute for Public Health (IKU)$c2024
+300   $a1 online resources (2 pages)$bcolor illustrations
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aBibliography: page 2
+650   $aNoncommunicable Diseases$xResearch$vPeriodicals
+650   $aMedical care$zMalaysia$vPeriodicals
+650   $aGovernment publications$zMalaysia$vPeriodicals
+700   $aKim Sui Wan
+700   $aTania Gayle Robert Lourdes,
+700   $aHalizah Mat Rifin
+710   $aMalaysia. Ministry of Health$bInstitute for Public Health
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/NCD.pdf
+942   $2NLM$cREF$n0
+999   $c28504$d28504
+999   $aKB
+
+Error list:
+[{"tag":"6XX","description":"Missing tag 6XX - SUBJECT ACCESS"}]
+LEADER 00938nam a2200265 i 4500
+001 28502
+003 NIH
+005 20250520104349.0
+008 250520s1993    |||||||  m|||o00| 0 eng d
+040   $aNIH$beng$cNIH$erda
+060   $aQW540
+090   $aQW540 $bB724 1993
+100 1 $aPrechatangkit, Boonlert$eauthor
+245 00$aHUMORAL AND CELL MEDIATED IMMUNE RESPONSES TO EXPERIMENTAL INFECTIONS OF SCHISTOSOMA SPINDALE IN BALB/c MICE/$cBOONLERT PRECHATANGKIT
+264  1$aKuala Lumpur :$bInstitute of Medical Research,$c1993
+300   $a53 pages :$bIllustrations;$c30 cm
+336   $atext$2rdacontent
+337   $aunmediated$2rdamedia
+338   $avolume$2rdacarrier
+502   $aThesis (Diploma in Applied Parasitology and Entomology)-Institute for Medical Research, September 1993.
+504   $aIncludes Bibliographical pages [47-51]
+942   $2NLM$cREF
+999   $c28502$d28502
+999   $aDAPE000407
+999   $aDAPE000408
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01560nam a2200409 a 4500
+001 28501
+003 NIH
+005 20250619121558.0
+008 250516b        |||||||| |||| 00| 0 eng d
+024   $qMOH/S/IKU/233.24(PT)
+040   $aNIH$ceng$dNIH$erda
+082   $aWI 710 K49 2024
+110   $aInstitute for Public Health 
+245   $aRESEARCH HIGHLIGHT $bLIVER MATTERS: THE HIGH BURDEN OF METABOLIC DYSFUNCTION-ASSOCIATED FATTY LIVER DISEASE (MAFLD) IN MALAYSIA$cMinistry of Health Malaysia Institute for Public Health
+246   $aThis document is based on:$bThe prevalence of metabolic syndrome and metabolic dysfunction-associated fatty liver in Malaysia 2023
+264   $aSetia Alam, Selangor$bInstitute for Public Health (IKU)$c2024
+300   $a1 online resource (2 pages)$bcolour illustrations
+336   $2rdacontent$atext
+337   $2rdamedia$acomputer
+338   $2rdacarrier$aonline resource
+500   $aBibliography: page 4
+650   $aFatty Liver
+650   $aLiver $xDiseases
+650   $aMetabolic Syndrome
+700   $aKim Sui Wan
+700   $aHalizah Mat Rifin
+700   $aKishwen Kanna Yoga Ratnam
+700   $aMuhammad Fadhli Mohd Yusoff
+700   $aShubash Shander Ganapathy
+700   $aNur Rabia'tula Dawiyah Rahim
+700   $aNorafiqah Shahirah Ayob
+700   $aNoor Ani Ahmad
+710   $aMalaysia. Ministry of Health$bInstitute for Public Health
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/rh-mafld.pdf
+942   $2NLM$n0$cREF
+998   $aKB
+999   $c28501$d28501
+
+Error list:
+[{"tag":"05X/06X/07X/08X/09X","description":"Missing tag 05X/06X/07X/08X/09X - Classification Number"},{"tag":"300","description":"Missing tag 300 - PHYSICAL DESCRIPTION"},{"tag":"6XX","description":"Missing tag 6XX - SUBJECT ACCESS"}]
+LEADER 01284nam a2200325 a 4500
+001 28500
+003 NIH
+005 20250516171218.0
+008 250516b        |||||||| |||| 00| 0 eng d
+024   $qMOH/S/IKU/233.24(PT)
+040   $aNIH$ceng$dNIH$erda
+100   $aKim Sui Wan
+110   $aInstitute for Public Health 
+245   $aLIVER MATTERS: THE HIGH BURDEN OF METABOLIC DYSFUNCTION-ASSOCIATED FATTY LIVER DISEASE (MAFLD) IN MALAYSIA$bRESEARCH HIGHLIGHT$cMinistry of Health Malaysia Institute for Public Health$nNMRR-22-0284-GUT
+246   $aThis document is based on:$bThe prevalence of metabolic syandrome and metabolic dysfunction-associated fatty liver in Malaysia 2023
+264   $aSetia Alam, Selangor$bInstitute for Public Health (IKU)$c2024
+336   $2rdacontent$atext
+337   $2rdamedia$aunmediated
+338   $2rdacarrier$avolume
+500   $aBibliography: page 4
+700   $aHalizah Mat Rifin
+700   $aKishwen Kanna Yoga Ratnam
+700   $aMuhammad Fadhli Mohd Yusoff
+700   $aShubash Shander Ganapathy
+700   $aNur Rabia'tula Dawiyah Rahim
+700   $aNorafiqah Shahirah Ayob
+700   $aNoor Ani Ahmad
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/rh-mafld.pdf
+942   $2NLM$n0$cREF
+999   $c28500$d28500
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 03297nam a2200541 a 4500
+001 28499
+003 NIH
+005 20250520101307.0
+008 250513b        |||||||| |||| 00| 0 eng d
+020   $aeISBN 978-967-26135-7-2
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/PAK/544.24(GU)- e
+090   $aWB 101  B793 2024
+110   $aKementerian Kesihatan Malaysia$bBahagian Perkembangan Perubatan
+245   $aGARIS PANDUAN PERKHIDMATAN OUTPATIENT PARENTERAL ANTIMICROBIAL THERAPY (OPAT) DI HOSPITAL KEMENTERIAN KESIHATAN MALAYSIA
+250   $aEDISI PERTAMA$bTAHUN 2024
+264  1$aPutrajaya$bUnit Perkhidmatan Perubatan, Cawangan Perkembangan Perkhidmatan Perubatan, Bahagian Perkembangan Perubatan, Kementerian Kesihatan Malaysia $c2024
+300   $a1 online resource (50 pages)
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+504   $aBibliography: page 47
+650   $aAmbulatory care $vHandbooks, manuals, etc.
+650   $aOutpatient care
+650   $aOutpatient Health Services 
+700   $aDato’ Dr Ker Hong Bee$cPakar Perunding Perubatan Dalaman dan Penyakit Berjangkit Hospital Raja Permaisuri Bainun, Ipoh
+700   $aDr Rahela Ambaras Khan$cPegawai Farmasi Hospital Kuala Lumpur
+700   $aDr Nor Arisah Misnan$cPakar Perubatan Dalaman dan Penyakit Berjangkit Hospital Sungai Buloh
+700   $aDr Azureen Azmel$cPakar Perubatan Dalaman dan Penyakit Berjangkit Hospital Tengku Ampuan Rahimah, Klang
+700   $aDr Noridah Nordin$cPakar Perubatan Dalaman dan Penyakit Berjangkit Hospital Raja Perempuan Zainab II, Kota Bharu
+700   $aDr Lee Heng Gee$cPakar Perubatan Dalaman dan Penyakit Berjangkit Hospital Queen Elizabeth 1, Kota Kinabalu
+700   $aDr Azraai Nasruddin$cPakar Perunding Perubatan Dalaman dan Endokrinologi Hospital Putrajaya
+700   $aDr Syamhanin Adnan$cPegawai Farmasi Hospital Sungai Buloh
+700   $aPn. Mardhiyah Kamal$cKetua Penolong Pengarah Kanan Bahagian Amalan & Perkembangan Farmasi KKM
+700   $aPuan Afra Nahdia Marizan Nor$cPegawai Farmasi Hospital Sungai Buloh
+700   $aPuan Siti Mahanim Shaik Ismail$cPegawai Farmasi Hospital Tengku Ampuan Rahimah, Klang
+700   $aNurul Hidayah Awang$cKetua Penolong Pengarah Kanan Bahagian Amalan & Perkembangan Farmasi KKM
+700   $aDr Shahanizan Mohd Zin$cKetua Penolong Pengarah Kanan Bahagian Perkembangan Perubatan KKM
+700   $aDr Nur Shaheera Shaharuddin$cKetua Penolong Pengarah Kanan Bahagian Perkembangan Perubatan KKM
+700   $aSaiful Bahari Mohamad Shah$cPenolong Pegawai Perubatan Bahagian Amalan Perubatan
+700   $aAlias Abu Hassan$cPenolong Pegawai Perubatan Bahagian Amalan Perubatan
+700   $aMohamad Sufian Ahmad$cPenolong Pegawai Perubatan Hospital Sungai Bulo
+710   $aMalaysia$bKementerian Kesihatan Malaysia$bBahagian Perkembangan Perubatan$eissuing body
+711   $a Jawatankuasa Pembangunan Garis Panduan Perkhidmatan Outpatient Antimicrobial Parenteral Antimicrobial Therapy (OPAT) Di Hospital Kementerian Kesihatan Malaysia. 
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/GARIS_PANDUAN_PERKHIDMATAN_OPAT_DI_HOSPITAL_KKM.pdf
+942   $2NLM$n0$cREF
+999   $c28499$d28499
+999   $aKB
+
+Error list:
+[{"tag":"100$e","description":"Missing sub field 100$e - Relator term"}]
+LEADER 00983nam a2200289 i 4500
+001 28497
+003 NIH
+005 20250513104438.0
+008 250513s1993    |||||||  m|||o00| 0 eng d
+040   $aNIH$beng$cNIH$erda
+060   $aWC725
+090   $aWC725$bD716 1993
+100 1 $aBalbuena, Dorris Dimaandal
+245 00$aHUMORAL CHANGES IN MACACA FASCICULARIS INFECTED WITH RH AND CYST STRAIN OF TOXOPLASMA GONDII/$cDORRIS  DAMAANDAL BALBUENA
+264  1$aKuala Lumpur :$bInstitute for Medical Research;$c1993
+300   $a42 Pages :$bIllustrations;$c30 cm
+336   $atext$2rdacontent
+337   $aunmediated$2rdamedia
+338   $avolume$2rdacarrier
+502   $aThesis (Diploma in Applied Parasitology and Entomology)-Institute for Medical Research, September 1993
+504   $aIncludes bibliographical pages [37-38]
+650  2$aToxoplasmosis
+650  2$aHumoral Immunity
+942   $2NLM$cREF
+999   $c28497$d28497
+999   $aDAPE000409
+999   $aDAPE000410
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01542nam a2200397 a 4500
+001 28496
+003 NIH
+005 20250519163954.0
+008 250507b        |||||||| |||| 00| 0 eng d
+022   $ae ISSN 3030- 63 61
+040   $aNIH$ceng$dNIH$erda
+082   $a615.880959505 MKKBPT 
+090   $aWB 890 T252 2024
+110   $aMalaysia. Ministry of Health. Traditional and Complementary Medicine Division. Profesion Development Section
+245   $aLAPORAN TAHUNAN$cBAHAGIAN PERUBATAN TRADISIONAL DAN KOMPLEMENTARI$n2023
+264   $aKuala Lumpur$bBahagian Perubatan Tradisional dan Komplementari, Cawangan Pembangunan Profesion$c2024
+300   $aonline resources$bcolour illustrations, colour photographs
+336   $2rdacontent$atext
+337   $2rdamedia$acomputer
+338   $2rdacarrier$aonline resource
+610   $aMalaysia. Kementerian Kesihatan. Bahagian Perubatan Tradisional dan Komplementari $vPeriodicals
+650   $aComplementary Therapies$zMalaysia$vPeriodicals
+650   $aAlternative medicine $zMalaysia $vPeriodicals
+650   $aTraditional medicine$zMalaysia $vPeriodicals
+700   $aDr. Goh Cheng Soon
+700   $aDr. Dyanan Puvanandran
+700   $aHalimah binti Zaharudin
+700   $aDr. Gan Fen Fang
+700   $aCatherine Benedict
+700   $aGong Jia Ying
+700   $aTineshwaran Velvanathan
+700   $aVicky Aw Yong
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/LT_2023_BM_(Final).pdf
+942   $2NLM$n0$cREF
+998   $aKB
+999   $c28496$d28496
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 02434nam a2200421 a 4500
+001 28494
+003 NIH
+005 20250520162557.0
+008 250505b        |||||||| |||| 00| 0 eng d
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/PK18.24(BUL)-e
+090   $aWK 802 SI623 2024
+100   $aSiti Fauziah binti Abu$cKetua Cawangan Amalan dan Perkembangan Farmasi$eChief editor
+110   $aPerak. Jabatan Kesihatan Negeri $bJawatankuasa Keselamatan Pengubatan, Bahagian Perkhidmatan Farmasi Perak
+245   $aMEDICATION SAFETY NEWSLETTER$cPHARMACEUTICAL SERVICES DIVISION, PERAK STATE HEALTH DEPARTMENT$n(Volume 1)$pIssue 2/2024
+264   $aIpoh, Perak$bJawatankuasa Keselamatan Pengubatan, Bahagian Perkhidmatan Farmasi Perak $c2024
+300   $a1 online resource (5 pages)$bcolor illustrations
+336   $2rdacontent$atext
+337   $2rdamedia$acomputer
+338   $2rdacarrier$aonline resource
+504   $aBibliography: page 5.
+610   $aJabatan Kesihatan Negeri Perak$bJawatankuasa Keselamatan Pengubatan, Bahagian Perkhidmatan Farmasi Perak $vPeriodicals
+650   $aInsulin$xSafety measures$zMalaysia$vPeriodicals
+650   $aPharmacy Service, Hospital $zMalaysia$vPeriodicals
+700   $aNormi binti Hamdan$cPegawai Farmasi Hospital Raja Permaisuri Bainun$eCo-chief editor
+700   $aWan Azuati binti Wan Omar$cKetua Pegawai Farmasi Hospital Parit Buntar$eSub-editor
+700   $aNorirmawath binti Saharuddin$cKetua Penolong Pengarah Kanan Bahagian Perkhidmatan Farmasi Perak
+700   $aJason Lee Choong Yin$cKetua Penolong Pengarah Kanan Bahagian Perkhidmatan Farmasi Perak
+700   $aRayme Rezza bin Azmi$cKetua Penolong Pengarah Kanan Bahagian Perkhidmatan Farmasi Perak
+700   $aKalaivani a/p Chandira Kumaran$cPegawai Farmasi Hospital Parit Buntar
+700   $aMohamad Asyraf bin Zabidi$cPegawai Farmasi Hospital Parit Buntar
+700   $aKaizhah binti Bashir Ahmad$cPegawai Farmasi Hospital Parit Buntar
+710   $aMalaysia$bBahagian Perkhidmatan Farmasi Perak$bJawatankuasa Keselamatan Pengubatan
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/(MOH.P.PK.18.24.BUL.e-)_-_Perak_Med_Safety_Newsletter_Vol_1_Issue_2_2024_-_Insulin.pdf
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/Perak_Med_Safety_Newsletter_Vol_1_Issue_3_2024_-_Medication_Administration.pdf
+942   $2NLM$n0$cREF
+999   $c28494$d28494
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01382nam a2200325 a 4500
+001 28492
+003 NIH
+005 20250519154759.0
+008 250505b        |||||||| |||| 00| 0 eng d
+020   $aE-ISBN 978-967-25780
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/P/PAK/542.24(GU) - e
+090   $aQU 325 H697 2024
+110   $aMinistry of Health Malaysia$bObstetrics & Gynaecology and Paediatric Services Unit, Medical Services Development Section, Medical Development Division
+245   $aGUIDELINES ON STEM CELL AND CELL-BASED RESEARCH AND THERAPY $cMEDICAL DEVELOPMENT DIVISION
+250   $a3rd edition$b1st Edition – December 2006 2nd Edition – July 2009
+264   $aPutrajaya$bMedical Development Division, Ministry of Health Malaysia $c2024
+300   $a84 pages$bcolor illustrations$c30 cm
+336   $2rdacontent$atext
+337   $2rdamedia$acomputer
+338   $2rdacarrier$aonline resource
+504   $aBibliography: page 56-72
+610   $aMalaysia. Ministry of Health $bMedical Development Division
+611   $aNational Committee on Ethics of Cell Research and Therapy (NCERT)
+650   $aStem Cells$vGuidelines$zMalaysia
+710   $aMalaysia
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/DRAF_4_LAYOUT_Guidelines_on_Stem_Cell_3rd_Edition_PDF_(2)_(1).pdf
+942   $2NLM$n0$cREF
+999   $c28492$d28492
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01610nam a2200313 a 4500
+001 28488
+003 NIH
+005 20250520123254.0
+008 250422b        |||||||| |||| 00| 0 eng d
+020   $a978-967-2854-41-8
+040   $aNIH$beng may$cNIH$erda
+084   $a615.1068 $bMOD
+090   $aQV 737$bM692 2024
+110   $aMalaysia. Kementerian Kesihatan$bBahagian Amalan dan Perkembangan Farmasi$bCawangan Pengurusan Farmasi Logistik
+245   $aMODUL LATIHAN FARMASI LOGISTIK$bPENGENALAN ASAS PENGURUSAN FARMASI LOGISTIK$cBahagian Amalan dan Perkembangan Farmasi, Kementerian Kesihatan Malaysia
+264  1$aPetaling Jaya, Selangor$bCawangan Pengurusan Farmasi Logistik, Bahagian Amalan dan Perkembangan Farmasi $c2024
+300   $a1 online resource (84 pages)$bcolour illustrations
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+500   $aIncludes questions and exercises
+610   $aKementerian Kesihatan Malaysia$bBahagian Amalan dan Perkembangan Farmasi, Cawangan Pengurusan Farmasi Logistik$vHandbooks, manuals, etc.
+650   $aPharmacy administration$zMalaysia$vHandbooks, manuals, etc.
+700   $aNajwa Sakinah binti Hassan ‘As’ari $cPegawai Farmasi Hospital Bentong$eeditor
+710   $aMalaysia. Kementerian Kesihatan $bBahagian Amalan dan Perkembangan Farmasi$bCawangan Pengurusan Farmasi Logistik
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/Modul_Latihan_Farmasi_Logistik_-_Pengenalan_Asas_Pengurusan_Farmasi_Logistik_2024.pdf
+942   $2NLM$n0$cREF
+999   $c28488$d28488
+999   $aKB
+
+Error list:
+[{"tag":"110$e","description":"Missing sub field 110$e - Relator term"}]
+LEADER 01200nam a2200265 a 4500
+001 28487
+003 NIH
+005 20250422171601.0
+008 250422b        |||||||| |||| 00| 0 eng d
+040   $aNIH$beng may$cNIH$erda
+084   $aMOH/F/FAR/125.24(GU) - e
+090   $aWA 240$bG232 2024
+110   $aMalaysia$bMinistry of Health
+245   $aGARIS PANDUAN PELAKSANAAN PENGKOMPAUNAN KESALAHAN DI BAWAH AKTA RACUN 1952 DAN PERATURAN-PERATURANNYA$cBAHAGIAN PENGUATKUASAAN FARMASI KEMENTERIAN KESIHATAN MALAYSIA$nTERHAD
+264  1$aPetaling Jaya, Selangor$bBahagian Penguatkuasaan Farmasi Kementerian Kesihatan Malaysia$c2024
+300   $aonline resource (49 pages)$bcolor illustrations, tables.
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+650   $a615.1068 $b MOD $d MDtl$vGuideline$xLaw and legislation$zMalaysia
+710   $aMalaysia$bKementerian Kesihatan $bBahagian Penguatkuasaan Farmasi
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/Garis_Panduan_Pelaksanaan_Pengkompaunan_Kesalahan_di_bawah_Akta_366_dan_Peraturan-Peraturannya_04.pdf
+942   $2NLM$cREF$n0
+999   $c28487$d28487
+999   $aKB00000001D
+
+Error list:
+[{"tag":"100$e","description":"Missing sub field 100$e - Relator term"}]
+LEADER 01801nam a2200421 a 4500
+001 28486
+003 NIH
+005 20250422173713.0
+008 250421b        |||||||| |||| 00| 0 eng d
+040   $aNIH$beng$cNIH$erda
+084   $aMOH/S/NIH/22.24(GU) - e
+090   $aWA 54$bC169 2024
+100   $aDr Calyn Tan Jen Ai 
+245   $aGUIDELINES ON PATIENT REGISTRY ESTABLISHMENT AND IMPLEMENTATION$bIN MINISTRY OF HEALTH MALAYSIA$cNational Institutes of Health$nBASED ON CURRENT BEST PRACTICES
+250   $a1st edition$b2024
+264  1$aShah Alam, Selangor$bRegistry Data and Information Governance Committee, Office of NIH Manager, National Institutes of Health$c2024
+300   $aonline resource (86 pages)$bcolour illustrations, tables, 
+336   $atext$2rdacontent
+337   $acomputer$2rdamedia
+338   $aonline resource$2rdacarrier
+610   $aMalaysia$bRegistry Data and Information Governance Committee$vGuideline
+650   $aPatient monitoring$vGuideline$zMalaysia
+650   $aPatients$xMedical care$xResearch$zMalaysia
+700   $aDr Murizal bin Zainol 
+700   $aDr Nuraidah binti Mohd Marzuki 
+700   $aDr Mohd Azahadi bin Omar
+700   $aDr Muhd Zulfadli Hafiz bin Ismail 
+700   $aMohd Kamarulariffin bin Kamarudin 
+700   $aDr Hammad Fahli bin Sidek 
+700   $aDr Lew Kian Nian 
+700   $aDr Nabilah Hanis binti Zainuddin 
+700   $aNor Anita binti Affandi 
+700   $aNurul Atifah binti Mohamad Zake 
+710   $aMalaysia$bMinistry of Health $bNational Institutes of Health
+856   $uhttps://moh-idepository.nih.gov.my/uploadbahan/Guidelines_on_Patient_Registry_Establishment_and_Implementation_in_Ministry_of_Health_Malaysia_(1).pdf
+942   $2NLM$cREF$n0
+999   $c28486$d28486
+999   $aKB
+
+Error list:
+[{"tag":"6XX","description":"Missing tag 6XX - SUBJECT ACCESS"}]
+LEADER 00703nam a2200217 a 4500
+001 28485
+003 NIH
+005 20250421121752.0
+008 250421b2016    my a|||| |||| 00| 0 eng d
+040   $aNIH$beng$erda
+090 00$aKM00974$dLIBRARY NIH
+245   $aEVALUATION OF THE IMPLEMENTATION OF “KOMUNITI SIHAT PEMBINA NEGARA” (KOSPEN) PROGRAMME IN MALAYSIA 2016
+264  1$aINSTITUTE FOR PUBLIC HEALTH | KOSPEN $bINSTITUTE FOR PUBLIC HEALTH | KOSPEN 2016$c2016
+300   $aComputer disc;$c12 cm
+336   $2rdacontent$atext
+337   $2rdamedia$aunmediated
+338   $2rdacarrier$avolume
+856   $uhttps://library.nih.gov.my
+942   $2NLM$n0$cREF
+999   $c28485$d28485
+999   $aKM00974
+
